@@ -1,0 +1,19 @@
+{
+  "name": "870215",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwind build css/tailwind.css -o css/app.css"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.4"
+  }
+}
+
+
