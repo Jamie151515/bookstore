@@ -2,6 +2,7 @@
 module.exports = {
   content: ["./index.html"],
   theme: {
+
     extend: {
       colors:{
         'primary': '#3C78E4',
@@ -9,6 +10,11 @@ module.exports = {
         'lightblue': '#E7ECF2',
         'fogblue': '#D3DAE0'
       },
+
+      fontFamily: {
+        'helvetica-neue': ['"Helvetica Neue"'],
+        }
+
     },
   },
   plugins: [],
