@@ -529,6 +529,10 @@ video {
   margin-bottom: 6rem;
 }
 
+.mb-\[520px\] {
+  margin-bottom: 520px;
+}
+
 .mb-6 {
   margin-bottom: 1.5rem;
 }
@@ -547,10 +551,6 @@ video {
 
 .ml-14 {
   margin-left: 3.5rem;
-}
-
-.mb-\[520px\] {
-  margin-bottom: 520px;
 }
 
 .mb-\[115px\] {
